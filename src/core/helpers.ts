@@ -1,6 +1,11 @@
 export const color = {
-  dark: "#2A2F33",
-  gray: "#8C8C9C",
-  ice: "#BBB6A5",
-  darkGray: "#8C8C9C",
+  pink: "#ef33b0",
+  gray1: "#e8eefa",
+  gray2: "#e7e7e7",
+  gray3: "#3e3e3e",
+  gray4: "#cbcccf",
+  gray5: "#999999",
+  gray6: "#cccccc",
+  blueLight1: "#e8eefa",
+  blueLight2: "#d9e6f7",
 };

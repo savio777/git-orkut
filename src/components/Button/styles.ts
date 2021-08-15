@@ -17,11 +17,9 @@ export const Container = styled.TouchableOpacity<ButtonProps>`
     props.principal
       ? css`
           width: 80%;
-          background-color: ${color.dark};
         `
       : css`
           width: 40%;
-          background-color: ${color.darkGray};
         `};
 `;
 
